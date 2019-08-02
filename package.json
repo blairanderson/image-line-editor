@@ -1,0 +1,24 @@
+{
+  "name": "react-dropzone-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "konva": "3.4.1",
+    "ramda": "0.25.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-dropzone": "10.1.7",
+    "react-konva": "16.8.7-3",
+    "react-scripts": "1.1.4",
+    "styled-components": "4.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
